@@ -17,6 +17,7 @@ It retrieves facts from a curated Formula 1 knowledge base, then answers natural
 - **Beautiful chat UI**: Formula 1-themed chatbot interface built with Next.js.
 - **Real-time responses**: Instant API calls from frontend to FastAPI backend.
 - **Fully local**: No external API calls for inference.
+- **Using web scraper**:used BeautifulSoup to scrape multiple website related to f1 content.
 
 ---
 
@@ -44,3 +45,4 @@ f1-rag-app/
 - You'll need to download llama3.2 from Ollama "https://ollama.com"
 - Create an astraDB database with the needed keys and store your hidden keys in .env file.
 - install the important dependenies from **requirements.txt** using the command "pip install -r requirements.txt"
+
