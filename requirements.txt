@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain
+langchain-astradb
+langchain-ollama
+python-dotenv
+requests
+beautifulsoup4
